@@ -38,13 +38,8 @@ Git / GitHub
 flutter pub get
 flutter run
 # 📸 Screenshots
-Add your screenshots here. Example format:
+![Homepage](https://github.com/user-attachments/assets/6c1bc4d4-2892-48cb-b010-7a7e6b720116)
 
-Home Screen
-
-Order Details Page
-
-Chat Interface
 
 # 📌 Project Notes
 This is a demo-level application highlighting best practices in:
